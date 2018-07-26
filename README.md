@@ -2,7 +2,7 @@
 <html>
 <body>
   <div>
-  <h1>App ruby DogBNB - THP</h1>
+  <h1>App ruby Gossip Project - THP</h1>
     <h2>Groupe de Rennes Christophe Leray</h2>
       <h3>Ruby version: 2.5.1</h3>
    <h2>How to install and test?</h2>
