@@ -1,6 +1,6 @@
 # App ruby Gossip Project - THP
 ### Groupe de Rennes Christophe Leray
-*Ruby version: 2.5.1*
+**Ruby version: 2.5.1**
 
 ___
 ## Installation
@@ -34,6 +34,6 @@ ___
     `$ PrivateMessage.find(1).sender`
 ---
 ### Diagram Database:</h4>
-        ![DB Diagram](https://www.ecosia.org/images?q=markdown+images#id=866CE2A2028980D232478CF66789C31E44D575E8)
+        ![DB Diagram](https://github.com/christopheleray/thp_gossip_project/blob/master/erd.pdf)
         
 
