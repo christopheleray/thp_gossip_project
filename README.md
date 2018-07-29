@@ -6,7 +6,7 @@ ___
 ## Installation
 
 * Download or clone the repository
-    $ git clone https://github.com/christopheleray/thp_gossip_project.git>
+    `$ git clone https://github.com/christopheleray/thp_gossip_project.git>
 
 * Run the command bundle install to install the necessary gems
     $ bundle install
@@ -34,6 +34,6 @@ ___
     `$ PrivateMessage.find(1).sender`
 ---
 ### Diagram Database:</h4>
-        ![DB Diagram](erd.pdf)
+        ![DB Diagram](https://www.ecosia.org/images?q=markdown+images#id=866CE2A2028980D232478CF66789C31E44D575E8)
         
 
