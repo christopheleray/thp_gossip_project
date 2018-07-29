@@ -34,6 +34,6 @@ ___
     `$ PrivateMessage.find(1).sender`
 ---
 ### Diagram Database:</h4>
-        ![DB Diagram](https://github.com/christopheleray/thp_gossip_project/blob/master/erd.pdf)
+![DB Diagram](https://github.com/christopheleray/thp_gossip_project/blob/master/erd.pdf)
         
 
